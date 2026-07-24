@@ -10,9 +10,7 @@ public:
             }
         }
         unordered_set<int> ans;
-        for(int x : nums){
-            ans.insert(x);
-        }
+        
         for(int p : pairs){
             for(int x : nums){
                 ans.insert(p^x);

@@ -154,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1321-restaurant-growth](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->

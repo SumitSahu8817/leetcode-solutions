@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0686-repeated-string-match](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1392-longest-happy-prefix](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -164,14 +165,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0686-repeated-string-match/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0686-repeated-string-match/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0686-repeated-string-match/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->

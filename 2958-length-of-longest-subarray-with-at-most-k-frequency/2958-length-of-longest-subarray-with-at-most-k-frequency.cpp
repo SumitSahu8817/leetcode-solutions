@@ -8,7 +8,7 @@ public:
         while(j<n){
             mp[nums[j]]++;
 
-            while(i<j&&mp[nums[j]]>k){
+            while(mp[nums[j]]>k){
                 mp[nums[i]]--;
                 i++;
             }

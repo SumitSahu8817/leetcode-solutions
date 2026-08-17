@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0474-ones-and-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0686-repeated-string-match](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |

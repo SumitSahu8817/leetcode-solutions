@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0224-basic-calculator](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |

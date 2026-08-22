@@ -4,11 +4,11 @@ public:
         vector<int> ans;
 
         int n = s.size();
-        int wordLen = words[0].size();
+        int wordlen = words[0].size();
         int wordCount = words.size();
-        int totalLen = wordLen * wordCount;
+        int totallen = wordlen * wordCount;
 
-        if (n < totalLen)
+        if (n < totallen)
             return ans;
 
         unordered_map<string, int> target;
@@ -17,48 +17,37 @@ public:
             target[word]++;
         }
 
-        // Try every possible starting offset
-        for (int offset = 0; offset < wordLen; offset++) {
-
+        for (int offset = 0; offset < wordlen; offset++) {
             int left = offset;
             int count = 0;
 
             unordered_map<string, int> window;
-
             for (int right = offset;
-                 right + wordLen <= n;
-                 right += wordLen) {
-
-                string word = s.substr(right, wordLen);
-
-                // Word doesn't exist in words
+                 right + wordlen <= n;
+                 right += wordlen) {
+                string word = s.substr(right, wordlen);
                 if (!target.count(word)) {
                     window.clear();
                     count = 0;
-                    left = right + wordLen;
+                    left = right + wordlen;
                     continue;
                 }
 
                 window[word]++;
                 count++;
-
-                // Too many occurrences of this word
                 while (window[word] > target[word]) {
-                    string leftWord = s.substr(left, wordLen);
+                    string leftWord = s.substr(left, wordlen);
 
                     window[leftWord]--;
-                    left += wordLen;
+                    left += wordlen;
                     count--;
                 }
-
-                // Found exactly wordCount words
                 if (count == wordCount) {
                     ans.push_back(left);
 
-                    // Remove first word and continue searching
-                    string leftWord = s.substr(left, wordLen);
+                    string leftWord = s.substr(left, wordlen);
                     window[leftWord]--;
-                    left += wordLen;
+                    left += wordlen;
                     count--;
                 }
             }

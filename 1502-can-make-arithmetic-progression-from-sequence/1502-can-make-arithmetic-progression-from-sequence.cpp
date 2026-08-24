@@ -1,9 +1,15 @@
 class Solution {
 public:
     bool canMakeArithmeticProgression(vector<int>& arr) {
-        sort (arr.begin() , arr.end());
-        for (int i=1 ; i<arr.size()-1 ; i++) {
-            if (arr[i]-arr[i-1]!=arr[i+1]-arr[i]){
+        int a = *min_element (arr.begin() , arr.end());
+        int maxi = *max_element (arr.begin() , arr.end());
+        int n = arr.size();
+        int d = (maxi - a)/(n-1);
+        if ((maxi - a) % (n - 1) != 0)
+    return false;
+        unordered_set<int> st(arr.begin() , arr.end());
+        for(int i=0;i<n;i++) {
+            if(st.find(a+i*d)==st.end()){
                 return false;
             }
         }

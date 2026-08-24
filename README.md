@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0587-erect-the-fence](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0587-erect-the-fence/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

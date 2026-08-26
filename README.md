@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0229-majority-element-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0686-repeated-string-match](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2090-k-radius-subarray-averages](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm

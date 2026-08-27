@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0587-erect-the-fence](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0587-erect-the-fence/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix

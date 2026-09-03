@@ -1,20 +1,31 @@
 class Solution {
 public:
     vector<int> getAverages(vector<int>& nums, int k) {
-        vector<int> ans;
+        int i = k;
         int n = nums.size();
-        for(int i=0 ; i<n ; i++) {
-            if ((i-k)<0 || (i+k)>(n-1)) {
-                    ans.push_back(-1);
-                    continue;
-                }
-            int a = i;
-            long long sum = nums[i];
-            for (int j=1;j<=k;j++) {
-                
-                sum += nums[i-j] + nums[i+j];
-            }
-            ans.push_back(sum/(2*k+1));
+        int left = 0 , right = 2*k;
+        vector<int> ans (n,-1);
+        if (n<2*k+1) return ans;
+        long long win = 0;
+        for (int i=0;i<=2*k;i++) {
+            win += nums[i];
+        }
+        int cnt = 2*k+1;
+        ans[i] = win/cnt;
+
+        i++;
+        right++;
+
+        while (right < n) {
+                int out = nums[left];
+                int in = nums[right];
+                win = win + in - out;
+
+                ans[i] = win/cnt;
+
+                i++;
+                left++;
+                right++;
         }
         return ans;
     }

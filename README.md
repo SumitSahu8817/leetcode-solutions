@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->

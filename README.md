@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0119-pascals-triangle-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -204,17 +206,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 | Problem Name | Difficulty |

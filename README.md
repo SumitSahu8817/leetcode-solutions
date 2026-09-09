@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,17 +224,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0587-erect-the-fence/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation

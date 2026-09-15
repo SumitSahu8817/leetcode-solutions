@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0063-unique-paths-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0063-unique-paths-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0139-word-break/) | Medium |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |

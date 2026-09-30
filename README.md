@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1791-find-center-of-star-graph](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Counting Sort
 |  |

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
@@ -450,11 +453,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |

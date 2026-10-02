@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0814-binary-tree-pruning](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -452,12 +453,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0814-binary-tree-pruning](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0814-binary-tree-pruning](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |

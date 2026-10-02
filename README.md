@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0814-binary-tree-pruning](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0623-add-one-row-to-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0623-add-one-row-to-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |

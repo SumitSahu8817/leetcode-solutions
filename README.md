@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0909-snakes-and-ladders](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0930-binary-subarrays-with-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0835-image-overlap) |
+| [0909-snakes-and-ladders](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0909-snakes-and-ladders](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |

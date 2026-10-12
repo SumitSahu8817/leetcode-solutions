@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0059-spiral-matrix-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0130-surrounded-regions) |

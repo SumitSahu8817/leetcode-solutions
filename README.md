@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1051-height-checker](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1110-delete-nodes-and-return-forest](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting

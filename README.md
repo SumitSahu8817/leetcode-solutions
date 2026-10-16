@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0223-rectangle-area](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0587-erect-the-fence](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0587-erect-the-fence/) | Hard |
 | [0836-rectangle-overlap](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |

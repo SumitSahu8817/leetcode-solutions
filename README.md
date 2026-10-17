@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0221-maximal-square](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0264-ugly-number-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0587-erect-the-fence](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0587-erect-the-fence/) | Hard |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -530,4 +533,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1051-height-checker) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

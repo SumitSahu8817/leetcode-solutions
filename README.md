@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1854-maximum-population-year](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0299-bulls-and-cows](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1854-maximum-population-year](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1854-maximum-population-year](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix

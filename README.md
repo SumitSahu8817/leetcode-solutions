@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1854-maximum-population-year](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1854-maximum-population-year](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

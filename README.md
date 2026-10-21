@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0587-erect-the-fence](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0587-erect-the-fence/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0733-flood-fill](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -543,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
 <!---LeetCode Topics End-->

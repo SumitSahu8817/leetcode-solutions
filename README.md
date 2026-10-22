@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [2405-optimal-partition-of-string](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2579-count-total-number-of-colored-cells](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [2405-optimal-partition-of-string](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Counting
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0299-bulls-and-cows](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1854-maximum-population-year](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -562,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 <!---LeetCode Topics End-->

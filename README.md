@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 ## Math
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |

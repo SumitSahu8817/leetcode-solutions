@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0456-132-pattern](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -575,9 +578,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0731-my-calendar-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/0731-my-calendar-ii/) | Medium |
 ## Fermat's Little Theorem
 |  |
 | ------- |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

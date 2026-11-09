@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1854-maximum-population-year](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/SumitSahu8817/leetcode-solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SumitSahu8817/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
